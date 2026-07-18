@@ -26,5 +26,3 @@ Open `http://localhost:3000`.
 - Built with Next.js App Router, TypeScript, TailwindCSS, Framer Motion, and lucide-react.
 - Handoff mockups are copied into `public/mockups` as visual references.
 - The contact page intentionally has no email field, per spec.
-# xyz-website
-# xyz-website
