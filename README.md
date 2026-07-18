@@ -21,7 +21,7 @@ Open `http://localhost:3000`.
 
 ## Notes
 
-- This is a vibe coding project through generous help from ChatGPT (Visuals, mocksups, iterations) and Codex (Coding, execution, debugs). Big thanks to OpenAI hackathon, enjoy vibe coding!
+- This is a vibe coding project through generous help from **ChatGPT-5.6** (Visuals, mocksups, iterations) and **Codex** (Coding, execution, debugs). Big thanks to OpenAI hackathon, enjoy vibe coding!
 
 - Built with Next.js App Router, TypeScript, TailwindCSS, Framer Motion, and lucide-react.
 - Handoff mockups are copied into `public/mockups` as visual references.
